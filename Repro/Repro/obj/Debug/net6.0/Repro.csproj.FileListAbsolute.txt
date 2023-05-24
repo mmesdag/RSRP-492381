@@ -1,0 +1,8 @@
+C:\Users\michaelmesdag\source\repos\mmesdag\RSRP-492381\Repro\Repro\obj\Debug\net6.0\Repro.csproj.AssemblyReference.cache
+C:\Users\michaelmesdag\source\repos\mmesdag\RSRP-492381\Repro\Repro\obj\Debug\net6.0\Repro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\michaelmesdag\source\repos\mmesdag\RSRP-492381\Repro\Repro\obj\Debug\net6.0\Repro.AssemblyInfoInputs.cache
+C:\Users\michaelmesdag\source\repos\mmesdag\RSRP-492381\Repro\Repro\obj\Debug\net6.0\Repro.AssemblyInfo.cs
+C:\Users\michaelmesdag\source\repos\mmesdag\RSRP-492381\Repro\Repro\obj\Debug\net6.0\Repro.csproj.CoreCompileInputs.cache
+C:\Users\michaelmesdag\source\repos\mmesdag\RSRP-492381\Repro\Repro\obj\Debug\net6.0\Repro.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\michaelmesdag\source\repos\mmesdag\RSRP-492381\Repro\Repro\obj\Debug\net6.0\Repro.RazorAssemblyInfo.cache
+C:\Users\michaelmesdag\source\repos\mmesdag\RSRP-492381\Repro\Repro\obj\Debug\net6.0\Repro.RazorAssemblyInfo.cs

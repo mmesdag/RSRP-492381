@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "Hash": "w7pJN8C7dqvTP4ArPZuMECAFsLle5YxAvcIjw7Z8JF4=",
+  "Source": "Repro",
+  "BasePath": "_content/Repro",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Repro\\wwwroot",
+      "Source": "Repro",
+      "ContentRoot": "C:\\Users\\michaelmesdag\\source\\repos\\mmesdag\\RSRP-492381\\Repro\\Repro\\wwwroot\\",
+      "BasePath": "_content/Repro",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\michaelmesdag\\.nuget\\packages\\mudblazor\\6.2.5\\staticwebassets\\MudBlazor.min.css",
+      "SourceId": "MudBlazor",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\michaelmesdag\\.nuget\\packages\\mudblazor\\6.2.5\\staticwebassets\\",
+      "BasePath": "_content/MudBlazor",
+      "RelativePath": "MudBlazor.min.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\michaelmesdag\\.nuget\\packages\\mudblazor\\6.2.5\\staticwebassets\\MudBlazor.min.css"
+    },
+    {
+      "Identity": "C:\\Users\\michaelmesdag\\.nuget\\packages\\mudblazor\\6.2.5\\staticwebassets\\MudBlazor.min.js",
+      "SourceId": "MudBlazor",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\michaelmesdag\\.nuget\\packages\\mudblazor\\6.2.5\\staticwebassets\\",
+      "BasePath": "_content/MudBlazor",
+      "RelativePath": "MudBlazor.min.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\michaelmesdag\\.nuget\\packages\\mudblazor\\6.2.5\\staticwebassets\\MudBlazor.min.js"
+    },
+    {
+      "Identity": "C:\\Users\\michaelmesdag\\source\\repos\\mmesdag\\RSRP-492381\\Repro\\Repro\\wwwroot\\favicon.ico",
+      "SourceId": "Repro",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\michaelmesdag\\source\\repos\\mmesdag\\RSRP-492381\\Repro\\Repro\\wwwroot\\",
+      "BasePath": "_content/Repro",
+      "RelativePath": "favicon.ico",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\favicon.ico"
+    }
+  ]
+}

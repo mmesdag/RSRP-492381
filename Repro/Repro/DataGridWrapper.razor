@@ -1,0 +1,17 @@
+﻿@typeparam T
+@attribute [CascadingTypeParameter(nameof(T))]
+
+<MudDataGrid Items="Items" MultiSelection="true">
+    <Columns>
+        <SelectColumn ShowInFooter="false"/>
+        @Columns
+    </Columns>
+</MudDataGrid>
+
+@code {
+    [Parameter, EditorRequired]
+    public required IEnumerable<T> Items { get; set; }
+
+    [Parameter, EditorRequired]
+    public required RenderFragment Columns { get; set; }
+}
